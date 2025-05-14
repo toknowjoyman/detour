@@ -5,7 +5,7 @@ title: Research
 
 # Research at Detour
 
-We're exploring everyday commutes and how to make them more joyful, mindful, and connected to self.
+We're exploring everyday commutes and how to make them more joyful, mindful, and connected to life's purpose.
 
 - Preliminary Research
   - Are people willing to take the long way home?
