@@ -3,5 +3,5 @@
 
 Links
 - [Pitch Deck](https://pitch.detour.fyi)
-- [Market Research](detour.fyi/research)
+- [Market Research](/research)
 - Screenshots
