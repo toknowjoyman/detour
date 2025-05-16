@@ -1,5 +1,4 @@
-# Detour
-## The map app that gets you out of traffic, onto the quickest scenic route, and back in control of your life. 
+## The map app that gets you out of traffic, moving on the quickest scenic route, and back in control of your life. 
 
 Links
 - <a href="https://pitch.detour.fyi" target="_blank" rel="noopener noreferrer">Pitch Deck</a>
