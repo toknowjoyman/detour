@@ -22,7 +22,7 @@ We're exploring everyday commutes and how to make them more joyful, mindful, and
     - Shows:
       - Increasing traffic YoY
       - Economic Cost of Traffic: ~$1500 in time$ and fuel$ + 50 hrs
-  - <a href="https://www.isglobal.org/documents/10179/6225531NdP_Zijlema_en.pdf/1e62d148-59b3-4a1d-95af-39ff708c460b" target="_blank" rel="noopener noreferrer">People Who Commute through Natural Environments Report Better Mental Health</a>
+  - <a href="https://www.isglobal.org/documents/10179/6225531/NdP_Zijlema_en.pdf/1e62d148-59b3-4a1d-95af-39ff708c460b" target="_blank" rel="noopener noreferrer">People Who Commute through Natural Environments Report Better Mental Health</a>
   - <a href="https://www.weforum.org/stories/2023/02/commuting-work-psychological-benefits-health/" target="_blank" rel="noopener noreferrer">World Economic Forum: People may find it worth their time to take the ‘scenic route’ home
 
 
