@@ -8,15 +8,15 @@ title: Research
 We're exploring everyday commutes and how to make them more joyful, mindful, and connected to life's purpose.
 
 - Primary Research
-  - *Are people willing to take the long way home?*
+  - **Are people willing to take the long way home?**
     - In our online surveys investigating the tendency for scenic detours;
       - We saw over 25k viewers and heard from 100’s of drivers in 24hrs on Reddit posts and Linkedin Polls. 
       - Most commenters preferred scenic detours, were willing to spend more time, and additional money, instead of driving on the main thoroughfare. 
       - They appreciated the pleasure of discovering the cultural gems hidden across other streets, and the conversion of mundane trips into memorable experiences.
     - [Reddit Post 1](https://www.reddit.com/r/NoStupidQuestions/comments/1kite7m/is_it_weird_to_take_a_longer_route_just_because/)
     - [Reddit Post 2](https://www.reddit.com/r/roadtrip/comments/1kiszd7/what_makes_a_drive_feel_worth_it/)
-    - Linkedin Poll 1
-    - Linkedin Poll 2
+    - <a href="https://www.linkedin.com/posts/viditman_buildinpublic-commuting-mentalhealth-activity-7326744487894863872-58bv?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPq2NoBbNWb-bz98vCLqTR3bDXjLMnzOi4" target="_blank" rel="noopener noreferrer">Linkedin Survey</a>
+    - 33% of survey responders want early access to our product. 
 - Secondary Research
   - <a href="https://inrix.com/scorecard/" target="_blank" rel="noopener noreferrer">Global Traffic Scorecard</a>
     - Shows:
