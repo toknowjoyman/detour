@@ -7,8 +7,8 @@ title: Research
 
 We're exploring everyday commutes and how to make them more joyful, mindful, and connected to life's purpose.
 
-- Preliminary Research
-  - Are people willing to take the long way home?
+- Primary Research
+  - *Are people willing to take the long way home?*
     - In our online surveys investigating the tendency for scenic detours;
       - We saw over 25k viewers and heard from 100’s of drivers in 24hrs on Reddit posts and Linkedin Polls. 
       - Most commenters preferred scenic detours, were willing to spend more time, and additional money, instead of driving on the main thoroughfare. 
@@ -17,6 +17,14 @@ We're exploring everyday commutes and how to make them more joyful, mindful, and
     - [Reddit Post 2](https://www.reddit.com/r/roadtrip/comments/1kiszd7/what_makes_a_drive_feel_worth_it/)
     - Linkedin Poll 1
     - Linkedin Poll 2
+- Secondary Research
+  - <a href="https://inrix.com/scorecard/" target="_blank" rel="noopener noreferrer">Global Traffic Scorecard</a>
+    - Shows:
+      - Increasing traffic YoY
+      - Economic Cost of Traffic: ~$1500 in time$ and fuel$ + 50 hrs
+  - <a href="https://www.isglobal.org/documents/10179/6225531NdP_Zijlema_en.pdf/1e62d148-59b3-4a1d-95af-39ff708c460b" target="_blank" rel="noopener noreferrer">People Who Commute through Natural Environments Report Better Mental Health</a>
+  - <a href="https://www.weforum.org/stories/2023/02/commuting-work-psychological-benefits-health/" target="_blank" rel="noopener noreferrer">World Economic Forum: People may find it worth their time to take the ‘scenic route’ home
+
 
 Future research on:
 
